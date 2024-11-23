@@ -1,16 +1,72 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "official",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "次世代シーケンサーから得られる生体分子の網羅情報に関心があります。"
+  },
+  {
+    "objectID": "about.html#研究キーワード",
+    "href": "about.html#研究キーワード",
+    "title": "About",
+    "section": "研究キーワード",
+    "text": "研究キーワード\nオミクス"
+  },
+  {
+    "objectID": "achievements.html",
+    "href": "achievements.html",
+    "title": "Achievements",
+    "section": "",
+    "text": "null"
+  },
+  {
+    "objectID": "achievements.html#原著論文",
+    "href": "achievements.html#原著論文",
+    "title": "Achievements",
+    "section": "",
+    "text": "null"
+  },
+  {
+    "objectID": "achievements.html#学会発表",
+    "href": "achievements.html#学会発表",
+    "title": "Achievements",
+    "section": "学会発表",
+    "text": "学会発表\n\nトランスクリプトームからみたラット海馬CA1領域の左右非対称性の解析\n◯久保田梓，小嶋健太郎，纐纈真之介，篠原良章，田嶋敦\n第46回日本分子生物学会年会，神戸，2023年12月7日発表（日本語）\nTranscriptomic analysis reveals gene expression signatures in the left and right CA1 regions of the rat hippocampus\n◯Azusa Kubota, Shinnosuke Koketsu, Yoshiaki Shinohara, Atsushi Tajima\nNEURO2024（第47回日本神経科学大会，第67回日本神経化学会大会，第46回日本生物学的精神医学会年会，第8回アジアオセアニア神経科学連合コングレス合同大会），福岡，2024年7月26日発表（英語）"
+  },
+  {
+    "objectID": "achievements.html#その他の業績",
+    "href": "achievements.html#その他の業績",
+    "title": "Achievements",
+    "section": "その他の業績",
+    "text": "その他の業績\n\n2024年3月　金沢大学大学院医薬保健学総合研究科医科学専攻優秀論文賞　受賞\n2024年3月　科学技術振興機構・次世代研究者挑戦的研究プログラム（JST-SPRING）選抜学生に採用\n2024年6月　特に優れた業績による日本学生支援機構大学院第一種奨学金の返還免除　認定\n2024年8月　バイオインフォマティクス技術者認定試験　合格"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Azusa KUBOTA’s official Website",
+    "section": "",
+    "text": "研究活動に関する情報について随時更新していきます。\n\n\nAbout: プロフィールと略歴\nAchievements: 論文や学会発表，その他の業績"
+  },
+  {
+    "objectID": "index.html#各ページへのリンク",
+    "href": "index.html#各ページへのリンク",
+    "title": "Azusa KUBOTA’s official Website",
+    "section": "",
+    "text": "About: プロフィールと略歴\nAchievements: 論文や学会発表，その他の業績"
+  },
+  {
+    "objectID": "about.html#所属学会一覧",
+    "href": "about.html#所属学会一覧",
+    "title": "About",
+    "section": "所属学会一覧",
+    "text": "所属学会一覧\n日本分子生物学会\n日本神経科学学会"
+  },
+  {
+    "objectID": "about.html#略歴",
+    "href": "about.html#略歴",
+    "title": "About",
+    "section": "略歴",
+    "text": "略歴\n2022年3月　金沢大学 医薬保健学域 創薬科学類　卒業，学士（創薬科学）\n2024年3月　金沢大学大学院 医薬保健学総合研究科 医科学専攻 修士課程　修了，修士（医科学）\n2024年4月　金沢大学大学院 先進予防医学研究科 先進予防医学共同専攻 医学博士課程　入学，在籍中"
   }
 ]
