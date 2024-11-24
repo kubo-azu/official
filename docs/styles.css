@@ -1,1 +1,43 @@
 /* css styles */
+
+/* お知らせ欄の全体スタイル */
+.news {
+  background-color: #f9f9f9;  /* 背景色 */
+  border-left: 5px solid #00cc99;  /* 左ボーダーの色 */
+  padding: 12px 20px;  /* 内側の余白 */
+  margin: 15px 0;  /* 外側の余白 */
+  border-radius: 5px;  /* 角丸 */
+  font-size: 1.1em;  /* フォントサイズ */
+}
+
+/* 各ニュース項目のスタイル */
+.news-item {
+  margin: 0;  /* 余白なし */
+  padding: 5px 0;  /* 上下の余白 */
+  font-weight: normal;  /* 太字を控えめに */
+}
+
+/* 日付や強調部分のスタイル */
+.news-item strong {
+  color: #555555;  /* 日付を控えめな色（灰色系）に変更 */
+  font-weight: normal;  /* 強調を控えめに */
+}
+
+/* リンクリスト全体のスタイル */
+.links {
+  margin: 20px 0;  /* 上下の余白 */
+  font-size: 1.1em;  /* フォントサイズ */
+}
+
+/* 各リンクのスタイル */
+.links a {
+  color: #007bff;  /* リンクの色 */
+  text-decoration: none;  /* 下線なし */
+  padding: 5px 0;  /* 上下の余白 */
+  display: block;  /* ブロック表示にすることで間隔を開ける */
+}
+
+/* リンクホバー時のスタイル */
+.links a:hover {
+  text-decoration: underline;  /* ホバー時に下線を表示 */
+}
