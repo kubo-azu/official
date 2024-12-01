@@ -14,11 +14,25 @@
     "text": "11月27日〜29日に福岡で開催された，日本分子生物学会年会に参加しました。\n土曜朝からの大学院対面講義＠金沢に出席するため最終日の途中で会場を離れたのは少し心残りでしたが，大変充実した学会参加となりました。\nお話しさせていただいた研究者の皆様，どうもありがとうございました。\n\n\n\n#MBSJ2024"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "お知らせ一覧",
+    "objectID": "info.html",
+    "href": "info.html",
+    "title": "Information",
     "section": "",
-    "text": "2024-12-01: ブログ記事を追加しました。\n2024-11-26: 第47回 日本分子生物学会年会＠福岡 (11/27〜29) に参加します。\n2024-11-24: Profileページに自己紹介を追加しました。\n\n\n\n2024-11-24: サイトのデザインを変更しました。\n2024-11-23: サイトを公開しました。"
+    "text": "金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野研究室Webサイト：https://big.w3.kanazawa-u.ac.jp\n〒920-8640石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野TEL 076-265-2719 (事務)"
+  },
+  {
+    "objectID": "info.html#所属研究室について",
+    "href": "info.html#所属研究室について",
+    "title": "Information",
+    "section": "",
+    "text": "金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野研究室Webサイト：https://big.w3.kanazawa-u.ac.jp\n〒920-8640石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野TEL 076-265-2719 (事務)"
+  },
+  {
+    "objectID": "info.html#関連リンク",
+    "href": "info.html#関連リンク",
+    "title": "Information",
+    "section": "関連リンク",
+    "text": "関連リンク\n金沢大学：http://www.kanazawa-u.ac.jp\n金沢大学大学院先進予防医学研究科：https://s-yobou.w3.kanazawa-u.ac.jp\n日本分子生物学会：https://www.mbsj.jp\n日本神経科学学会：https://www.jnss.org\n日本バイオインフォマティクス学会：https://www.jsbi.org"
   },
   {
     "objectID": "achievements.html",
@@ -47,6 +61,13 @@
     "title": "これまでの成果",
     "section": "その他の業績",
     "text": "その他の業績\n\n2024年8月　バイオインフォマティクス技術者認定試験　合格\n2024年6月　特に優れた業績による日本学生支援機構大学院第一種奨学金の返還免除　認定\n2024年3月　科学技術振興機構・次世代研究者挑戦的研究プログラム（JST-SPRING）選抜学生に採用\n2024年3月　金沢大学大学院医薬保健学総合研究科医科学専攻優秀論文賞　受賞"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "お知らせ一覧",
+    "section": "",
+    "text": "2024-12-01: ブログ記事を追加しました。\n2024-11-26: 第47回 日本分子生物学会年会＠福岡 (11/27〜29) に参加します。\n2024-11-24: Profileページに自己紹介を追加しました。\n\n\n\n2024-11-24: サイトのデザインを変更しました。\n2024-11-23: サイトを公開しました。"
   },
   {
     "objectID": "index.html",
@@ -96,26 +117,5 @@
     "title": "プロフィール",
     "section": "所属学会一覧",
     "text": "所属学会一覧\n日本分子生物学会\n日本神経科学学会\n日本バイオインフォマティクス学会"
-  },
-  {
-    "objectID": "info.html",
-    "href": "info.html",
-    "title": "Information",
-    "section": "",
-    "text": "金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野研究室Webサイト：https://big.w3.kanazawa-u.ac.jp\n〒920-8640石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野TEL 076-265-2719 (事務)"
-  },
-  {
-    "objectID": "info.html#所属研究室について",
-    "href": "info.html#所属研究室について",
-    "title": "Information",
-    "section": "",
-    "text": "金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野研究室Webサイト：https://big.w3.kanazawa-u.ac.jp\n〒920-8640石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野TEL 076-265-2719 (事務)"
-  },
-  {
-    "objectID": "info.html#関連リンク",
-    "href": "info.html#関連リンク",
-    "title": "Information",
-    "section": "関連リンク",
-    "text": "関連リンク\n金沢大学：http://www.kanazawa-u.ac.jp\n金沢大学大学院先進予防医学研究科：https://s-yobou.w3.kanazawa-u.ac.jp\n日本分子生物学会：https://www.mbsj.jp\n日本神経科学学会：https://www.jnss.org\n日本バイオインフォマティクス学会：https://www.jsbi.org"
   }
 ]
