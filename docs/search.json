@@ -18,7 +18,7 @@
     "href": "news.html",
     "title": "お知らせ一覧",
     "section": "",
-    "text": "2024-12-01: ブログ記事を追加しました。\n2024-11-26: 第47回 日本分子生物学会年会＠福岡(11/27〜29) に参加します。\n2024-11-24: Profileページに自己紹介を追加しました。\n\n\n\n2024-11-24: サイトのデザインを変更しました。\n2024-11-23: サイトを公開しました。"
+    "text": "2024-12-01: ブログ記事を追加しました。\n2024-11-26: 第47回 日本分子生物学会年会＠福岡 (11/27〜29) に参加します。\n2024-11-24: Profileページに自己紹介を追加しました。\n\n\n\n2024-11-24: サイトのデザインを変更しました。\n2024-11-23: サイトを公開しました。"
   },
   {
     "objectID": "achievements.html",
@@ -53,21 +53,21 @@
     "href": "index.html",
     "title": "Azusa KUBOTA’s Official Website",
     "section": "",
-    "text": "久保田 梓のホームページ（自作）です。\n研究活動に関する情報を主として随時更新していきます。"
+    "text": "久保田 梓のホームページ（自作）です。 研究活動に関する情報を主として随時更新していきます。"
   },
   {
     "objectID": "index.html#最新のお知らせ",
     "href": "index.html#最新のお知らせ",
     "title": "Azusa KUBOTA’s Official Website",
     "section": "最新のお知らせ",
-    "text": "最新のお知らせ\n\n\n- 2024-12-01: ブログ記事を追加しました。\n\n\n- 2024-11-26: 第47回 日本分子生物学会年会＠福岡(11/27〜29) に参加します。\n\n\n- 2024-11-24: Profileページに自己紹介を追加しました。\n\n\n- 2024-11-24: サイトのデザインを変更しました。\n\n\n- 2024-11-23: サイトを公開しました。"
+    "text": "最新のお知らせ\n\n\n- 2024-12-01: ブログ記事を追加しました。\n\n\n- 2024-11-26: 第47回 日本分子生物学会年会＠福岡 (11/27〜29) に参加します。\n\n\n- 2024-11-24: Profileページに自己紹介を追加しました。\n\n\n- 2024-11-24: サイトのデザインを変更しました。\n\n\n- 2024-11-23: サイトを公開しました。"
   },
   {
     "objectID": "index.html#contents",
     "href": "index.html#contents",
     "title": "Azusa KUBOTA’s Official Website",
     "section": "Contents",
-    "text": "Contents\n\nProfile: 自己紹介と略歴\n\n\nNews: お知らせ一覧\n\n\nAchievements: 業績関連\n\n\nBlog: 報告や雑記など\n\nThis website is built with Quarto, a multi-language and next-generation version of R Markdown."
+    "text": "Contents\n\nProfile: 自己紹介と略歴\n\n\nNews: お知らせ一覧\n\n\nAchievements: 業績関連\n\n\nBlog: 報告や雑記など\n\n\nInfo: 所属先情報と関連サイトへのリンク集\n\nThis website is built with Quarto, a multi-language and next-generation version of R Markdown."
   },
   {
     "objectID": "profile.html",
@@ -96,5 +96,26 @@
     "title": "プロフィール",
     "section": "所属学会一覧",
     "text": "所属学会一覧\n日本分子生物学会\n日本神経科学学会\n日本バイオインフォマティクス学会"
+  },
+  {
+    "objectID": "info.html",
+    "href": "info.html",
+    "title": "Information",
+    "section": "",
+    "text": "金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野研究室Webサイト：https://big.w3.kanazawa-u.ac.jp\n〒920-8640石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野TEL 076-265-2719 (事務)"
+  },
+  {
+    "objectID": "info.html#所属研究室について",
+    "href": "info.html#所属研究室について",
+    "title": "Information",
+    "section": "",
+    "text": "金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野研究室Webサイト：https://big.w3.kanazawa-u.ac.jp\n〒920-8640石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野TEL 076-265-2719 (事務)"
+  },
+  {
+    "objectID": "info.html#関連リンク",
+    "href": "info.html#関連リンク",
+    "title": "Information",
+    "section": "関連リンク",
+    "text": "関連リンク\n金沢大学：http://www.kanazawa-u.ac.jp\n金沢大学大学院先進予防医学研究科：https://s-yobou.w3.kanazawa-u.ac.jp\n日本分子生物学会：https://www.mbsj.jp\n日本神経科学学会：https://www.jnss.org\n日本バイオインフォマティクス学会：https://www.jsbi.org"
   }
 ]
