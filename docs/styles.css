@@ -41,3 +41,44 @@
 .links a:hover {
   text-decoration: underline;  /* ホバー時に下線を表示 */
 }
+
+/* ブログ一覧ページのスタイル */
+.listing {
+  margin: 20px 0;
+  font-size: 1.1em; /* 全体的な文字サイズを少し大きく */
+}
+
+/* 各ブログタイトルリンクのスタイル */
+.listing a {
+  color: #007bff; /* 青色のリンク */
+  text-decoration: none; /* 下線を非表示 */
+  font-weight: bold; /* 太字で目立たせる */
+}
+
+/* ホバー時のスタイル */
+.listing a:hover {
+  text-decoration: underline; /* ホバー時に下線を表示 */
+  color: #0056b3; /* ホバー時に色を少し濃く */
+}
+
+/* 各ブログエントリのボックス */
+.listing .item {
+  padding: 10px;
+  margin: 15px 0;
+  border: 1px solid #e0e0e0; /* 薄い灰色の枠線 */
+  border-radius: 5px; /* 角を少し丸く */
+  background-color: #f9f9f9; /* 背景を少し明るい灰色に */
+}
+
+/* 日付部分のスタイル */
+.listing .item .date {
+  font-size: 0.9em;
+  color: #6c757d; /* 少し目立たない灰色 */
+  margin-bottom: 5px;
+}
+
+/* タイトル部分のスタイル */
+.listing .item .title {
+  font-size: 1.2em;
+  color: #333; /* 標準の暗い文字色 */
+}
