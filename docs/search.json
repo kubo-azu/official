@@ -18,7 +18,7 @@
     "href": "blog/blog_20250515.html",
     "title": "qPCRデータ解析Webアプリ",
     "section": "",
-    "text": "qPCRデータ解析に使用していたRスクリプトをもとにWebアプリケーションを作ってみました。\nShinyを触ってみることが主目的だったのですが，案外役に立ちそうです。\nΔΔCt法に基づく相対定量法のデータ解析結果を発現量グラフで出力します。\n現在は無料プランで公開しているためアクセス時間など制限が多いですが，ご興味のある方はご連絡ください。リンクを送ります。\nUIなどもっと整えていきたいですし，ローカル版をGithubで公開することもありでしょうか。"
+    "text": "qPCRデータ解析に使用していたRスクリプトをもとにWebアプリケーションを作ってみました。\nShinyを触ってみることが主目的だったのですが，案外役に立ちそうです。\nΔΔCt法に基づく相対定量法のデータ解析結果を発現量グラフで出力します。\n現在は無料プランで公開しているためアクセス時間など制限が多いですが，ご興味のある方はご連絡ください。リンクを送ります。\nUIなどもっと整えていきたいですし，ローカル版をGitHubで公開することもありでしょうか。"
   },
   {
     "objectID": "info.html",
@@ -46,14 +46,14 @@
     "href": "achievements.html",
     "title": "これまでの成果",
     "section": "",
-    "text": "Azusa Kubota, Kentaro Kojima, Shinnosuke Koketsu, Takayuki Kannon, Takehiro Sato, Kazuyoshi Hosomichi, Yoshiaki Shinohara, Atsushi Tajima.Housing environment bilaterally alters transcriptomic profile in the rat hippocampal CA1 region.bioRxiv, 651351. (2025). https://doi.org/10.1101/2025.04.29.651351.\n\n\n\n\n\nラット海馬CA1領域のトランスクリプトームからみた経験がもたらす遺伝子発現変化と左右差への影響久保田梓金沢大学十全医学会雑誌 133 (2) 59-61, 2024. https://doi.org/10.24517/0002001686."
+    "text": "Azusa Kubota*, Atsushi Tajima.Click-qPCR: an ultra-simple tool for interactive qPCR data analysis.bioRxiv, 656779. (2025). https://doi.org/10.1101/2025.05.29.656779.\nAzusa Kubota, Kentaro Kojima, Shinnosuke Koketsu, Takayuki Kannon, Takehiro Sato, Kazuyoshi Hosomichi, Yoshiaki Shinohara*, Atsushi Tajima*.Housing environment bilaterally alters transcriptomic profile in the rat hippocampal CA1 region.bioRxiv, 651351. (2025). https://doi.org/10.1101/2025.04.29.651351.\n\n\n\n\n\nラット海馬CA1領域のトランスクリプトームからみた経験がもたらす遺伝子発現変化と左右差への影響久保田梓金沢大学十全医学会雑誌 133 (2) 59-61, 2024. https://doi.org/10.24517/0002001686."
   },
   {
     "objectID": "achievements.html#論文一覧",
     "href": "achievements.html#論文一覧",
     "title": "これまでの成果",
     "section": "",
-    "text": "Azusa Kubota, Kentaro Kojima, Shinnosuke Koketsu, Takayuki Kannon, Takehiro Sato, Kazuyoshi Hosomichi, Yoshiaki Shinohara, Atsushi Tajima.Housing environment bilaterally alters transcriptomic profile in the rat hippocampal CA1 region.bioRxiv, 651351. (2025). https://doi.org/10.1101/2025.04.29.651351.\n\n\n\n\n\nラット海馬CA1領域のトランスクリプトームからみた経験がもたらす遺伝子発現変化と左右差への影響久保田梓金沢大学十全医学会雑誌 133 (2) 59-61, 2024. https://doi.org/10.24517/0002001686."
+    "text": "Azusa Kubota*, Atsushi Tajima.Click-qPCR: an ultra-simple tool for interactive qPCR data analysis.bioRxiv, 656779. (2025). https://doi.org/10.1101/2025.05.29.656779.\nAzusa Kubota, Kentaro Kojima, Shinnosuke Koketsu, Takayuki Kannon, Takehiro Sato, Kazuyoshi Hosomichi, Yoshiaki Shinohara*, Atsushi Tajima*.Housing environment bilaterally alters transcriptomic profile in the rat hippocampal CA1 region.bioRxiv, 651351. (2025). https://doi.org/10.1101/2025.04.29.651351.\n\n\n\n\n\nラット海馬CA1領域のトランスクリプトームからみた経験がもたらす遺伝子発現変化と左右差への影響久保田梓金沢大学十全医学会雑誌 133 (2) 59-61, 2024. https://doi.org/10.24517/0002001686."
   },
   {
     "objectID": "achievements.html#学会発表",
@@ -74,7 +74,7 @@
     "href": "news.html",
     "title": "お知らせ一覧",
     "section": "",
-    "text": "2025-05-15: ブログ記事を追加しました。\n2025-05-05 筆頭著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-04-15: researchmapアカウントを作成しました。\n2025-04-10: 第18回 日本エピジェネティクス研究会年会＠福井 (6/18〜20) に参加します。\n2025-03-24: モデル生物を使った研究者のネットワークイベント＠金沢大 (3/25) に参加します。\n2025-01-08: ブログ記事を追加しました。\n2024-12-01: ブログ記事を追加しました。\n2024-11-26: 第47回 日本分子生物学会年会＠福岡 (11/27〜29) に参加します。\n2024-11-24: Profileページに自己紹介を追加しました。\n\n\n\n2024-11-24: サイトのデザインを変更しました。\n2024-11-23: サイトを公開しました。"
+    "text": "2025-06-01: 筆頭著者・責任著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-05-15: ブログ記事を追加しました。\n2025-05-05 筆頭著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-04-15: researchmapアカウントを作成しました。\n2025-04-10: 第18回 日本エピジェネティクス研究会年会＠福井 (6/18〜20) に参加します。\n2025-03-24: モデル生物を使った研究者のネットワークイベント＠金沢大 (3/25) に参加します。\n2025-01-08: ブログ記事を追加しました。\n2024-12-01: ブログ記事を追加しました。\n2024-11-26: 第47回 日本分子生物学会年会＠福岡 (11/27〜29) に参加します。\n2024-11-24: Profileページに自己紹介を追加しました。\n\n\n\n2024-11-24: サイトのデザインを変更しました。\n2024-11-23: サイトを公開しました。"
   },
   {
     "objectID": "index.html",
@@ -88,7 +88,7 @@
     "href": "index.html#最新のお知らせ",
     "title": "Azusa KUBOTA’s Official Website",
     "section": "最新のお知らせ",
-    "text": "最新のお知らせ\n\n\n- 2025-05-15: ブログ記事を追加しました。\n\n\n- 2025-05-05 筆頭著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n\n\n- 2025-04-15: researchmapアカウントを作成しました。\n\n\n- 2025-04-10: 第18回 日本エピジェネティクス研究会年会＠福井 (6/18〜20) に参加します。\n\n\n- 2025-03-24: モデル生物を使った研究者のネットワークイベント＠金沢大 (3/25) に参加します。"
+    "text": "最新のお知らせ\n\n\n- 2025-06-01: 筆頭著者・責任著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n\n\n- 2025-05-15: ブログ記事を追加しました。\n\n\n- 2025-05-05 筆頭著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n\n\n- 2025-04-15: researchmapアカウントを作成しました。\n\n\n- 2025-04-10: 第18回 日本エピジェネティクス研究会年会＠福井 (6/18〜20) に参加します。"
   },
   {
     "objectID": "index.html#contents",
