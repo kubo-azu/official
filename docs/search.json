@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "ブログ記事一覧",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nqPCRデータ解析Webアプリ\n\n\n\n\n\n\n研究活動\n\n\n\n\n\n\n\n\n\nMay 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n新年のご挨拶\n\n\n\n\n\n\n雑記\n\n\n\n\n\n\n\n\n\nJan 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n日本分子生物学会年会に参加しました\n\n\n\n\n\n\n研究活動\n\n\n学会\n\n\n\n\n\n\n\n\n\nDec 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nqPCRデータ解析Webアプリ\n\n\n\n\n\n\n研究活動\n\n\n\n\n\n\n\n\n\nMay 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n日本エピジェネティクス研究会年会に参加しました\n\n\n\n\n\n\n研究活動\n\n\n学会\n\n\n\n\n\n\n\n\n\nJun 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n新年のご挨拶\n\n\n\n\n\n\n雑記\n\n\n\n\n\n\n\n\n\nJan 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n日本分子生物学会年会に参加しました\n\n\n\n\n\n\n研究活動\n\n\n学会\n\n\n\n\n\n\n\n\n\nDec 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/blog_20241201.html",
@@ -14,32 +14,39 @@
     "text": "11月27日〜29日に福岡で開催された，日本分子生物学会年会に参加しました。\n土曜朝からの大学院対面講義＠金沢に出席するため最終日の途中で会場を離れたのは少し心残りでしたが，大変充実した学会参加となりました。\nお話しさせていただいた研究者の皆様，どうもありがとうございました。\n\n\n\n#MBSJ2024"
   },
   {
-    "objectID": "blog/blog_20250515.html",
-    "href": "blog/blog_20250515.html",
-    "title": "qPCRデータ解析Webアプリ",
+    "objectID": "blog/blog_20250625.html",
+    "href": "blog/blog_20250625.html",
+    "title": "日本エピジェネティクス研究会年会に参加しました",
     "section": "",
-    "text": "qPCRデータ解析に使用していたRスクリプトをもとにWebアプリケーションを作ってみました。\nShinyを触ってみることが主目的だったのですが，案外役に立ちそうです。\nΔΔCt法に基づく相対定量法のデータ解析結果を発現量グラフで出力します。\n現在は無料プランで公開しているためアクセス時間など制限が多いですが，ご興味のある方はご連絡ください。リンクを送ります。\nUIなどもっと整えていきたいですし，ローカル版をGitHubで公開することもありでしょうか。"
+    "text": "6月18日〜20日に福岡で開催された，日本エピジェネティクス研究会年会（18日は北陸エピジェネティクス研究会）に参加しました。\nアットホームでありながらも熱い議論が交わされており，大変勉強になりました。\n会期中お話しいただいた多くの研究者や学生の方々，どうもありがとうございました。\n\n\n\n#JSE2025\n\n\n 駅前にたくさん恐竜がいて思わず写真を撮ってしまいますね。"
   },
   {
-    "objectID": "info.html",
-    "href": "info.html",
-    "title": "Information",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Azusa KUBOTA’s Official Website",
     "section": "",
-    "text": "金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野研究室Webサイト：https://big.w3.kanazawa-u.ac.jp\n〒920-8640石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野TEL 076-265-2719 (事務)"
+    "text": "久保田 梓 ホームページ（自作）です。 研究活動に関する情報を主として随時更新していきます。 researchmapはこちら → https://researchmap.jp/kubo_azu"
   },
   {
-    "objectID": "info.html#所属研究室について",
-    "href": "info.html#所属研究室について",
-    "title": "Information",
-    "section": "",
-    "text": "金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野研究室Webサイト：https://big.w3.kanazawa-u.ac.jp\n〒920-8640石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野TEL 076-265-2719 (事務)"
+    "objectID": "index.html#最新のお知らせ",
+    "href": "index.html#最新のお知らせ",
+    "title": "Azusa KUBOTA’s Official Website",
+    "section": "最新のお知らせ",
+    "text": "最新のお知らせ\n\n\n- 2025-06-25: ブログ記事を追加しました。\n\n\n- 2025-06-04: 第48回 日本神経科学大会＠新潟 (7/24〜27) に参加します。3日目 (7/26) にポスター発表を行います。[3P-325, 12:50-13:50]\n\n\n- 2025-06-01: 筆頭著者・責任著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n\n\n- 2025-05-15: ブログ記事を追加しました。\n\n\n- 2025-05-05 筆頭著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。"
   },
   {
-    "objectID": "info.html#関連リンク",
-    "href": "info.html#関連リンク",
-    "title": "Information",
-    "section": "関連リンク",
-    "text": "関連リンク\n金沢大学：http://www.kanazawa-u.ac.jp\n金沢大学大学院先進予防医学研究科：https://s-yobou.w3.kanazawa-u.ac.jp\n日本分子生物学会：https://www.mbsj.jp\n日本神経科学学会：https://www.jnss.org\n日本バイオインフォマティクス学会：https://www.jsbi.org\n日本エピジェネティクス研究会：https://jsepi.org"
+    "objectID": "index.html#contents",
+    "href": "index.html#contents",
+    "title": "Azusa KUBOTA’s Official Website",
+    "section": "Contents",
+    "text": "Contents\n\nProfile: 自己紹介と略歴\n\n\nNews: お知らせ一覧\n\n\nAchievements: 業績関連\n\n\nBlog: 報告や雑記など\n\n\nInformation: 所属先情報と関連サイトへのリンク集\n\nThis website is built with Quarto, a multi-language and next-generation version of R Markdown."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "お知らせ一覧",
+    "section": "",
+    "text": "2025-06-25: ブログ記事を追加しました。\n2025-06-04: 第48回 日本神経科学大会＠新潟 (7/24〜27) に参加します。3日目 (7/26) にポスター発表を行います。[3P-325, 12:50-13:50]\n2025-06-01: 筆頭著者・責任著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-05-15: ブログ記事を追加しました。\n2025-05-05 筆頭著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-04-15: researchmapアカウントを作成しました。\n2025-04-10: 第18回 日本エピジェネティクス研究会年会＠福井 (6/18〜20) に参加します。\n2025-03-24: モデル生物を使った研究者のネットワークイベント＠金沢大 (3/25) に参加します。\n2025-01-08: ブログ記事を追加しました。\n2024-12-01: ブログ記事を追加しました。\n2024-11-26: 第47回 日本分子生物学会年会＠福岡 (11/27〜29) に参加します。\n2024-11-24: Profileページに自己紹介を追加しました。\n\n\n\n2024-11-24: サイトのデザインを変更しました。\n2024-11-23: サイトを公開しました。"
   },
   {
     "objectID": "achievements.html",
@@ -70,32 +77,32 @@
     "text": "その他の業績\n\n2024年 8月　バイオインフォマティクス技術者認定試験 合格\n2024年 6月　特に優れた業績による日本学生支援機構大学院第一種奨学金の返還免除 認定 (半額分)\n2024年 3月　科学技術振興機構・次世代研究者挑戦的研究プログラム (JST-SPRING) 選抜学生に採用\n2024年 3月　金沢大学大学院・医薬保健学総合研究科医科学専攻・優秀論文賞 受賞"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "お知らせ一覧",
+    "objectID": "info.html",
+    "href": "info.html",
+    "title": "Information",
     "section": "",
-    "text": "2025-06-04: 第48回 日本神経科学大会＠新潟 (7/24〜27) に参加します。3日目 (7/26) にポスター発表を行います。[3P-325, 12:50-13:50]\n2025-06-01: 筆頭著者・責任著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-05-15: ブログ記事を追加しました。\n2025-05-05 筆頭著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-04-15: researchmapアカウントを作成しました。\n2025-04-10: 第18回 日本エピジェネティクス研究会年会＠福井 (6/18〜20) に参加します。\n2025-03-24: モデル生物を使った研究者のネットワークイベント＠金沢大 (3/25) に参加します。\n2025-01-08: ブログ記事を追加しました。\n2024-12-01: ブログ記事を追加しました。\n2024-11-26: 第47回 日本分子生物学会年会＠福岡 (11/27〜29) に参加します。\n2024-11-24: Profileページに自己紹介を追加しました。\n\n\n\n2024-11-24: サイトのデザインを変更しました。\n2024-11-23: サイトを公開しました。"
+    "text": "金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野研究室Webサイト：https://big.w3.kanazawa-u.ac.jp\n〒920-8640石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野TEL 076-265-2719 (事務)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Azusa KUBOTA’s Official Website",
+    "objectID": "info.html#所属研究室について",
+    "href": "info.html#所属研究室について",
+    "title": "Information",
     "section": "",
-    "text": "久保田 梓 ホームページ（自作）です。 研究活動に関する情報を主として随時更新していきます。 researchmapはこちら → https://researchmap.jp/kubo_azu"
+    "text": "金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野研究室Webサイト：https://big.w3.kanazawa-u.ac.jp\n〒920-8640石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野TEL 076-265-2719 (事務)"
   },
   {
-    "objectID": "index.html#最新のお知らせ",
-    "href": "index.html#最新のお知らせ",
-    "title": "Azusa KUBOTA’s Official Website",
-    "section": "最新のお知らせ",
-    "text": "最新のお知らせ\n\n\n- 2025-06-04: 第48回 日本神経科学大会＠新潟 (7/24〜27) に参加します。3日目 (7/26) にポスター発表を行います。[3P-325, 12:50-13:50]\n\n\n- 2025-06-01: 筆頭著者・責任著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n\n\n- 2025-05-15: ブログ記事を追加しました。\n\n\n- 2025-05-05 筆頭著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n\n\n- 2025-04-15: researchmapアカウントを作成しました。"
+    "objectID": "info.html#関連リンク",
+    "href": "info.html#関連リンク",
+    "title": "Information",
+    "section": "関連リンク",
+    "text": "関連リンク\n金沢大学：http://www.kanazawa-u.ac.jp\n金沢大学大学院先進予防医学研究科：https://s-yobou.w3.kanazawa-u.ac.jp\n日本分子生物学会：https://www.mbsj.jp\n日本神経科学学会：https://www.jnss.org\n日本バイオインフォマティクス学会：https://www.jsbi.org\n日本エピジェネティクス研究会：https://jsepi.org"
   },
   {
-    "objectID": "index.html#contents",
-    "href": "index.html#contents",
-    "title": "Azusa KUBOTA’s Official Website",
-    "section": "Contents",
-    "text": "Contents\n\nProfile: 自己紹介と略歴\n\n\nNews: お知らせ一覧\n\n\nAchievements: 業績関連\n\n\nBlog: 報告や雑記など\n\n\nInformation: 所属先情報と関連サイトへのリンク集\n\nThis website is built with Quarto, a multi-language and next-generation version of R Markdown."
+    "objectID": "blog/blog_20250515.html",
+    "href": "blog/blog_20250515.html",
+    "title": "qPCRデータ解析Webアプリ",
+    "section": "",
+    "text": "qPCRデータ解析に使用していたRスクリプトをもとにWebアプリケーションを作ってみました。\nShinyを触ってみることが主目的だったのですが，案外役に立ちそうです。\nΔΔCt法に基づく相対定量法のデータ解析結果を発現量グラフで出力します。\n現在は無料プランで公開しているためアクセス時間など制限が多いですが，ご興味のある方はご連絡ください。リンクを送ります。\nUIなどもっと整えていきたいですし，ローカル版をGitHubで公開することもありでしょうか。"
   },
   {
     "objectID": "blog/blog_20250108.html",
