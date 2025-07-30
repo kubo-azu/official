@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -192,9 +192,9 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="JUU1JUFEJUE2JUU0JUJDJTlB">学会 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="JUU3JUEwJTk0JUU3JUE5JUI2JUU2JUI0JUJCJUU1JThCJTk1">研究活動 <span class="quarto-category-count">(3)</span></div><div class="category" data-category="JUU5JTlCJTkxJUU4JUE4JTk4">雑記 <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -222,27 +222,6 @@ window.Quarto = {
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-</div>
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-categories="JUU3JUEwJTk0JUU3JUE5JUI2JUU2JUI0JUJCJUU1JThCJTk1" data-listing-date-sort="1747234800000" data-listing-file-modified-sort="1750838076852" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
@@ -256,11 +235,6 @@ window.Quarto = {
 </h3>
 <div class="listing-subtitle">
 <a href="./blog/blog_20250515.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('JUU3JUEwJTk0JUU3JUE5JUI2JUU2JUI0JUJCJUU1JThCJTk1'); return false;">
-研究活動
-</div>
 </div>
 <div class="listing-description">
 <a href="./blog/blog_20250515.html" class="no-external">qPCRデータ解析に使用していたRスクリプトをもとにWebアプリケーションを作ってみました。</a>
@@ -287,14 +261,6 @@ May 15, 2025
 <div class="listing-subtitle">
 <a href="./blog/blog_20250625.html" class="no-external"></a>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('JUU3JUEwJTk0JUU3JUE5JUI2JUU2JUI0JUJCJUU1JThCJTk1'); return false;">
-研究活動
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('JUU1JUFEJUE2JUU0JUJDJTlB'); return false;">
-学会
-</div>
-</div>
 <div class="listing-description">
 <a href="./blog/blog_20250625.html" class="no-external">6月18日〜20日に福岡で開催された，日本エピジェネティクス研究会年会（18日は北陸エピジェネティクス研究会）に参加しました。</a>
 </div>
@@ -320,11 +286,6 @@ Jun 25, 2025
 <div class="listing-subtitle">
 <a href="./blog/blog_20250108.html" class="no-external"></a>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('JUU5JTlCJTkxJUU4JUE4JTk4'); return false;">
-雑記
-</div>
-</div>
 <div class="listing-description">
 <a href="./blog/blog_20250108.html" class="no-external">本年もよろしくお願いいたします。</a>
 </div>
@@ -349,14 +310,6 @@ Jan 8, 2025
 </h3>
 <div class="listing-subtitle">
 <a href="./blog/blog_20241201.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('JUU3JUEwJTk0JUU3JUE5JUI2JUU2JUI0JUJCJUU1JThCJTk1'); return false;">
-研究活動
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('JUU1JUFEJUE2JUU0JUJDJTlB'); return false;">
-学会
-</div>
 </div>
 <div class="listing-description">
 <a href="./blog/blog_20241201.html" class="no-external">11月27日〜29日に福岡で開催された，日本分子生物学会年会に参加しました。</a>
