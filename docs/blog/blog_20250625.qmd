@@ -1,6 +1,6 @@
 ---
 title: "日本エピジェネティクス研究会年会に参加しました"
-date: "2025-06-25"
+date: 2025-06-25
 categories: 
   - 研究活動
   - 学会
@@ -14,7 +14,6 @@ categories:
 
 ![#JSE2025](../images/blog_20250625_1.jpg){fig-align="center" width="60%"}
 
-<br>
-駅前にたくさん恐竜がいて思わず写真を撮ってしまいますね。
+<br> 駅前にたくさん恐竜がいて思わず写真を撮ってしまいますね。
 
 ![](../images/blog_20250625_2.jpg){fig-align="center" width="60%"}

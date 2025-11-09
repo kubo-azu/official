@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "ブログ記事一覧",
     "section": "",
-    "text": "qPCRデータ解析Webアプリ\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n日本エピジェネティクス研究会年会に参加しました\n\n\n\n\n\n\n\n\n\n\n\nJun 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n新年のご挨拶\n\n\n\n\n\n\n\n\n\n\n\nJan 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n今年の夏は…\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n日本分子生物学会年会に参加しました\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "今年の夏は…\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n日本エピジェネティクス研究会年会に参加しました\n\n\n\n\n\n\n\n\n\n\n\nJun 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nqPCRデータ解析Webアプリ\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n新年のご挨拶\n\n\n\n\n\n\n\n\n\n\n\nJan 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n日本分子生物学会年会に参加しました\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/blog_20241201.html",
@@ -25,7 +25,7 @@
     "href": "blog/blog_20250515.html",
     "title": "qPCRデータ解析Webアプリ",
     "section": "",
-    "text": "qPCRデータ解析に使用していたRスクリプトをもとにWebアプリケーションを作ってみました。\nShinyを触ってみることが主目的だったのですが，案外役に立ちそうです。\nΔΔCt法に基づく相対定量法のデータ解析結果を発現量グラフで出力します。\n現在は無料プランで公開しているためアクセス時間など制限が多いですが，ご興味のある方はご連絡ください。リンクを送ります。\nUIなどもっと整えていきたいですし，ローカル版をGitHubで公開することもありでしょうか。"
+    "text": "qPCRデータ解析に使用していたRスクリプトをもとにWebアプリケーションを作ってみました。\nShinyを触ってみることが主目的だったのですが，案外役に立ちそうです。\nΔΔCq(ΔΔCt)法に基づく相対定量法のデータ解析結果を発現量グラフで出力します。\n現在は無料プランで公開しているためアクセス時間など制限が多いですが，ご興味のある方はご連絡ください。リンクを送ります。\nUIなどもっと整えていきたいですし，ローカル版をGitHubで公開することもありでしょうか。"
   },
   {
     "objectID": "info.html",
@@ -53,14 +53,14 @@
     "href": "achievements.html",
     "title": "これまでの成果",
     "section": "",
-    "text": "Azusa Kubota*, Atsushi Tajima.Click-qPCR: an ultra-simple tool for interactive qPCR data analysis.bioRxiv, 656779. (2025). https://doi.org/10.1101/2025.05.29.656779.\nAzusa Kubota, Kentaro Kojima, Shinnosuke Koketsu, Takayuki Kannon, Takehiro Sato, Kazuyoshi Hosomichi, Yoshiaki Shinohara*, Atsushi Tajima*.Housing environment bilaterally alters transcriptomic profile in the rat hippocampal CA1 region.bioRxiv, 651351. (2025). https://doi.org/10.1101/2025.04.29.651351.\n\n\n\n\n\nラット海馬CA1領域のトランスクリプトームからみた経験がもたらす遺伝子発現変化と左右差への影響久保田梓金沢大学十全医学会雑誌 133 (2) 59-61, 2024. https://doi.org/10.24517/0002001686."
+    "text": "Azusa Kubota* and Atsushi Tajima.Click-qPCR: A Simple Tool for Interactive qPCR Data Analysis.Bio-protocol 15(22): e5513. (2025). https://doi.org/10.21769/BioProtoc.5513.\nAzusa Kubota, Kentaro Kojima, Shinnosuke Koketsu, Takayuki Kannon, Takehiro Sato, Kazuyoshi Hosomichi, Yoshiaki Shinohara*, Atsushi Tajima*.Housing environment bilaterally alters transcriptomic profile in the rat hippocampal CA1 region.bioRxiv, 651351. (2025). https://doi.org/10.1101/2025.04.29.651351."
   },
   {
-    "objectID": "achievements.html#論文一覧",
-    "href": "achievements.html#論文一覧",
+    "objectID": "achievements.html#論文一覧-プレプリント含む",
+    "href": "achievements.html#論文一覧-プレプリント含む",
     "title": "これまでの成果",
     "section": "",
-    "text": "Azusa Kubota*, Atsushi Tajima.Click-qPCR: an ultra-simple tool for interactive qPCR data analysis.bioRxiv, 656779. (2025). https://doi.org/10.1101/2025.05.29.656779.\nAzusa Kubota, Kentaro Kojima, Shinnosuke Koketsu, Takayuki Kannon, Takehiro Sato, Kazuyoshi Hosomichi, Yoshiaki Shinohara*, Atsushi Tajima*.Housing environment bilaterally alters transcriptomic profile in the rat hippocampal CA1 region.bioRxiv, 651351. (2025). https://doi.org/10.1101/2025.04.29.651351.\n\n\n\n\n\nラット海馬CA1領域のトランスクリプトームからみた経験がもたらす遺伝子発現変化と左右差への影響久保田梓金沢大学十全医学会雑誌 133 (2) 59-61, 2024. https://doi.org/10.24517/0002001686."
+    "text": "Azusa Kubota* and Atsushi Tajima.Click-qPCR: A Simple Tool for Interactive qPCR Data Analysis.Bio-protocol 15(22): e5513. (2025). https://doi.org/10.21769/BioProtoc.5513.\nAzusa Kubota, Kentaro Kojima, Shinnosuke Koketsu, Takayuki Kannon, Takehiro Sato, Kazuyoshi Hosomichi, Yoshiaki Shinohara*, Atsushi Tajima*.Housing environment bilaterally alters transcriptomic profile in the rat hippocampal CA1 region.bioRxiv, 651351. (2025). https://doi.org/10.1101/2025.04.29.651351."
   },
   {
     "objectID": "achievements.html#学会発表",
@@ -81,7 +81,7 @@
     "href": "news.html",
     "title": "お知らせ一覧",
     "section": "",
-    "text": "2025-10-14: 筆頭著者・責任著者として執筆した論文 (Click-qPCR: a simple tool for interactive qPCR data analysis) がBio-protocol誌にアクセプトされました！\n2025-09-01: ブログ記事を追加しました。\n2025-07-30: Achievementsを更新しました。\n2025-06-25: ブログ記事を追加しました。\n2025-06-04: 第48回 日本神経科学大会＠新潟 (7/24〜27) に参加します。3日目 (7/26) にポスター発表を行います。[3P-325, 12:50-13:50]\n2025-06-01: 筆頭著者・責任著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-05-15: ブログ記事を追加しました。\n2025-05-05 筆頭著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-04-15: researchmapアカウントを作成しました。\n2025-04-10: 第18回 日本エピジェネティクス研究会年会＠福井 (6/18〜20) に参加します。\n2025-03-24: モデル生物を使った研究者のネットワークイベント＠金沢大 (3/25) に参加します。\n2025-01-08: ブログ記事を追加しました。\n2024-12-01: ブログ記事を追加しました。\n2024-11-26: 第47回 日本分子生物学会年会＠福岡 (11/27〜29) に参加します。\n2024-11-24: Profileページに自己紹介を追加しました。\n\n\n\n2024-11-24: サイトのデザインを変更しました。\n2024-11-23: サイトを公開しました。"
+    "text": "2025-10-14: 筆頭著者・責任著者として執筆した論文 (Click-qPCR: A Simple Tool for Interactive qPCR Data Analysis) がBio-protocol誌にアクセプトされました！\n2025-09-01: ブログ記事を追加しました。\n2025-07-30: Achievementsを更新しました。\n2025-06-25: ブログ記事を追加しました。\n2025-06-04: 第48回 日本神経科学大会＠新潟 (7/24〜27) に参加します。3日目 (7/26) にポスター発表を行います。[3P-325, 12:50-13:50]\n2025-06-01: 筆頭著者・責任著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-05-15: ブログ記事を追加しました。\n2025-05-05 筆頭著者として執筆した論文 (プレプリント) がbioRxivにて公開されました。\n2025-04-15: researchmapアカウントを作成しました。\n2025-04-10: 第18回 日本エピジェネティクス研究会年会＠福井 (6/18〜20) に参加します。\n2025-03-24: モデル生物を使った研究者のネットワークイベント＠金沢大 (3/25) に参加します。\n2025-01-08: ブログ記事を追加しました。\n2024-12-01: ブログ記事を追加しました。\n2024-11-26: 第47回 日本分子生物学会年会＠福岡 (11/27〜29) に参加します。\n2024-11-24: Profileページに自己紹介を追加しました。\n\n\n\n2024-11-24: サイトのデザインを変更しました。\n2024-11-23: サイトを公開しました。"
   },
   {
     "objectID": "index.html",
@@ -95,7 +95,7 @@
     "href": "index.html#最新のお知らせ",
     "title": "Azusa KUBOTA’s Official Website",
     "section": "最新のお知らせ",
-    "text": "最新のお知らせ\n\n\n- 2025-10-14: 筆頭著者・責任著者として執筆した論文 (Click-qPCR: a simple tool for interactive qPCR data analysis) がBio-protocol誌にアクセプトされました！\n\n\n- 2025-09-01: ブログ記事を追加しました。\n\n\n- 2025-07-30: Achievementsを更新しました。\n\n\n- 2025-06-25: ブログ記事を追加しました。\n\n\n- 2025-06-04: 第48回 日本神経科学大会＠新潟 (7/24〜27) に参加します。3日目 (7/26) にポスター発表を行います。[3P-325, 12:50-13:50]"
+    "text": "最新のお知らせ\n\n\n- 2025-10-14: 筆頭著者・責任著者として執筆した論文 (Click-qPCR: A Simple Tool for Interactive qPCR Data Analysis) がBio-protocol誌にアクセプトされました！\n\n\n- 2025-09-01: ブログ記事を追加しました。\n\n\n- 2025-07-30: Achievementsを更新しました。\n\n\n- 2025-06-25: ブログ記事を追加しました。\n\n\n- 2025-06-04: 第48回 日本神経科学大会＠新潟 (7/24〜27) に参加します。3日目 (7/26) にポスター発表を行います。[3P-325, 12:50-13:50]"
   },
   {
     "objectID": "index.html#contents",
