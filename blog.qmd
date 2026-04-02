@@ -1,0 +1,10 @@
+---
+title: "ブログ記事一覧"
+listing:
+  contents: blog
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  page-size: 5
+---

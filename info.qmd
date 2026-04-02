@@ -1,0 +1,23 @@
+---
+title: "Information"
+---
+
+## 所属研究室について
+
+金沢大学 医薬保健研究域医学系 革新ゲノム情報学分野<br>研究室Webサイト：<https://big.w3.kanazawa-u.ac.jp>
+
+〒920-8640<br>石川県金沢市宝町13-1 医学類D棟2階 革新ゲノム情報学分野<br>TEL 076-265-2719 (事務)
+
+## 関連リンク
+
+金沢大学：<http://www.kanazawa-u.ac.jp>
+
+金沢大学大学院先進予防医学研究科：<https://s-yobou.w3.kanazawa-u.ac.jp>
+
+日本分子生物学会：<https://www.mbsj.jp>
+
+日本神経科学学会：<https://www.jnss.org>
+
+日本バイオインフォマティクス学会：<https://www.jsbi.org>
+
+日本エピジェネティクス研究会：<https://jsepi.org>

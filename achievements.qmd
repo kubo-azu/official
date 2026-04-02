@@ -1,0 +1,36 @@
+---
+title: "これまでの成果"
+---
+
+## 論文一覧
+
+-   **Kubota, A.**, Zang, L., Shinkai, T., Nakai, M., Tajima, A., & Shimada, Y\*. (2026). Systems-level Investigation of the Anxiolytic Gut-Brain Interactions induced by Paraprobiotic *Lactobacillus brevis* SBC8803 in Zebrafish. *bioRxiv*. <https://doi.org/10.1371/journal.pone.0338190>.
+
+-   **Kubota, A.**, Kojima, K., Koketsu, S., Kannon, T., Sato, T., Hosomichi, K., Shinohara, Y.\*, & Tajima, A\*. (2025). Housing environment bilaterally alters transcriptomic profile in the rat hippocampal CA1 region. *PLoS One*, 20(12), e0338190. <https://doi.org/10.1371/journal.pone.0338190>.
+
+-   **Kubota, A.**\*, & Tajima, A. (2025). Click-qPCR: A Simple Tool for Interactive qPCR Data Analysis. *Bio-Protocol*, 15(1384). <https://doi.org/10.21769/BioProtoc.5513>.
+
+## 学会発表
+
+-   クリック操作で完結するインタラクティブなリアルタイム定量PCRデー
+タ解析Webツール：Click-qPCR<br>◯[久保田 梓]{.underline}，田嶋 敦<br>第48回日本分子生物学会年会，横浜，2025年12月3日発表 (日本語・ポスター発表)
+
+-   Bilateral hippocampal CA1 transcriptomic signatures after adolescent environmental exposure<br>思春期環境に応じた両側海馬CA1遺伝子発現プロファイルの解明<br>◯[Azusa Kubota]{.underline}, Shinnosuke Koketsu, Yoshiaki Shinohara, Atsushi Tajima<br>第48回日本神経科学大会，新潟，2025年7月26日発表 (英語・ポスター発表)
+
+-   Transcriptomic analysis reveals gene expression signatures in the left and right CA1 regions of the rat hippocampus<br>経験がもたらすラット海馬左右CA1領域における遺伝子発現変化の解析<br>◯[Azusa Kubota]{.underline}, Shinnosuke Koketsu, Yoshiaki Shinohara, Atsushi Tajima<br>NEURO2024 (第47回日本神経科学大会，第67回日本神経化学会大会，第46回日本生物学的精神医学会年会，第8回アジアオセアニア神経科学連合コングレス合同大会)，福岡，2024年7月26日発表 (英語・ポスター発表)
+
+-   トランスクリプトームからみたラット海馬CA1領域の左右非対称性の解析<br>◯[久保田 梓]{.underline}，小嶋 健太郎，纐纈 真之介，篠原 良章，田嶋 敦<br>第46回日本分子生物学会年会，神戸，2023年12月7日発表 (日本語・ポスター発表)
+
+## その他の業績
+
+-   2026年 3月　モデル生物を使った研究者のネットワークイベント (金沢大学) 優秀ポスター賞 受賞
+
+-   2025年 3月　医療・創薬データサイエンスコンソーシアム主催 データサイエンス人材育成プログラム 修了 (基礎編・応用編)
+
+-   2024年 8月　バイオインフォマティクス技術者認定試験 合格
+
+-   2024年 6月　特に優れた業績による日本学生支援機構大学院第一種奨学金の返還免除 認定 (半額分)
+
+-   2024年 3月　科学技術振興機構・次世代研究者挑戦的研究プログラム (JST-SPRING) 選抜学生に採用
+
+-   2024年 3月　金沢大学 大学院医薬保健学総合研究科医科学専攻 優秀論文賞 受賞

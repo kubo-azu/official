@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  resources:        #参照するディレクトリを追加する
+    - images/
+    - blog/
+
+website:
+  title: "A.K. official"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Profile
+        href: profile.qmd
+      - text: News
+        href: news.qmd
+      - text: Achievements
+        href: achievements.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Information
+        href: info.qmd
+  google-analytics: "G-B911ZHNBCY"
+
+format:
+  html:
+    execute:
+      enabled: true
+    theme: cosmo
+    css: styles.css
+    toc: true
+    
+
+editor: visual
+

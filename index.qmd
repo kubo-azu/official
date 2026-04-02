@@ -1,0 +1,38 @@
+---
+title: "Azusa KUBOTA's Official Website"
+---
+
+久保田 梓 ホームページ (自作) です。<br> 研究活動に関する情報を主として随時更新していきます。<br> Researchmap → <https://researchmap.jp/kubo_azu>
+<br> リアルタイムPCRデータ解析Webツール：Click-qPCR → <https://kubo-azu.shinyapps.io/Click-qPCR/>
+<br> お知らせ用 X (Twitter) → [@terminal_ak](https://x.com/terminal_ak?s=21&t=ZJ_6sOLFnCmChDUdSNUEaQ)
+
+## 最新のお知らせ
+
+```{r results='asis'}
+#| echo: false
+news_file <- "news.qmd"
+news_lines <- readLines(news_file)
+news_items <- grep("^\\- ", news_lines, value = TRUE)
+latest_news <- head(news_items, 5)
+cat("<div class='news'>\n")
+for (news in latest_news) {
+  cat(paste0("<p class='news-item'><strong>", news, "</strong></p>\n"))
+}
+cat("</div>\n")
+```
+
+## Contents
+
+##### [Profile](/profile.html): 自己紹介と略歴
+
+##### [News](/news.html): お知らせ一覧
+
+##### [Achievements](/achievements.html): 業績関連
+
+##### [Blog](/blog.html): 報告や雑記など
+
+##### [Information](/info.html): 所属先情報と関連サイトへのリンク集
+
+------------------------------------------------------------------------
+
+<br>This website is built with Quarto, a multi-language and next-generation version of R Markdown.
