@@ -4,6 +4,7 @@ title: "Azusa KUBOTA's Official Website"
 
 久保田 梓 ホームページ (自作) です。<br> 研究活動に関する情報を主として随時更新していきます。<br> Researchmap → <https://researchmap.jp/kubo_azu>
 <br> リアルタイムPCRデータ解析Webツール：Click-qPCR → <https://kubo-azu.shinyapps.io/Click-qPCR/>
+<br> DNAメチル化アンプリコンデータ解析Webツール：PANDA → <https://huggingface.co/spaces/kubo-azu/PANDA>
 <br> お知らせ用 X (Twitter) → [@terminal_ak](https://x.com/terminal_ak?s=21&t=ZJ_6sOLFnCmChDUdSNUEaQ)
 
 ## 最新のお知らせ
