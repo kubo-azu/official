@@ -2,7 +2,7 @@
 title: "お知らせ一覧"
 ---
 
--   **2025-04-20**: 第19回 [日本エピジェネティクス研究会年会＠新潟]{.underline} (6/25〜26) に参加します。1日目 (6/25) にポスター発表を行います。[P-97, 16:45-18:00]
+-   **2025-04-20**: 第19回 [日本エピジェネティクス研究会年会＠千葉]{.underline} (6/25〜26) に参加します。1日目 (6/25) にポスター発表を行います。[P-97, 16:45-18:00]
 
 -   **2026-04-18**: 筆頭著者として執筆した論文 (Systems-level Investigation of the Anxiolytic Gut–Brain Interactions induced by Paraprobiotic Lactobacillus brevis SBC8803 in Zebrafish) がFrontiers in Microbiology誌にアクセプトされました！三重大学医学系研究科，ゼブラフィッシュリサーチセンター・島田康人先生らとの共同研究成果です。
 
