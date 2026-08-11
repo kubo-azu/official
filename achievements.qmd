@@ -16,6 +16,8 @@ title: "これまでの成果"
 
 ## 学会発表
 
+-   Transcriptomic analysis reveals gene expression signatures in the left and right CA1 regions of the rat hippocampus<br>加熱殺菌乳酸菌SBC8803が及ぼす抗不安作用と腸脳相関の統合オミクス解析<br>◯[Azusa Kubota]{.underline}, Liquing Zang, Takuro Shinkai, Misa Nakai, Atsushi Tajima, Yasuhito Shimada<br>NEURO2026 (第49回日本神経科学大会・第69回日本神経化学会大会・第36回日本神経回路学会大会)，神戸，2026年7月30日発表 (英語・口頭発表)
+
 -   DNAメチル化アンプリコンのリード単位フェーズ解析ツールPANDAの開発<br>◯[久保田 梓]{.underline}，小林 久人，田嶋 敦<br>第19回日本エピジェネティクス研究会年会，千葉，2026年6月25日発表 (日本語・ポスター発表)
 
 -   クリック操作で完結するインタラクティブなリアルタイム定量PCRデー
