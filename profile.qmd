@@ -16,12 +16,9 @@ title: "プロフィール"
 
 [お名前・フルネームとご所属先]{.underline}に関する情報を併記していただけるとスムーズなやり取りが可能です。
 
-kubo_azu\[at\]stu.kanazawa-u.ac.jp （メイン）<br>
-kubotaexperiments\[at\]gmail.com （サブ）
+kubo_azu\[at\]stu.kanazawa-u.ac.jp (メイン)<br>kubotaexperiments\[at\]gmail.com (サブ)
 
-Researchmap: <https://researchmap.jp/kubo_azu>
-
-ORCID: <https://orcid.org/0009-0007-8948-4564>
+Researchmap: <https://researchmap.jp/kubo_azu><br>ORCID: <https://orcid.org/0009-0007-8948-4564>
 
 ## 研究キーワード
 
