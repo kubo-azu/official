@@ -4,6 +4,8 @@ title: "これまでの成果"
 
 ## 論文一覧
 
+-  **Kubota, A.**\* & Tajima, A. (2026). Click-Prep: An Interactive Data Preparation Tool for Click-qPCR. *bioRxiv*. <https://doi.org/10.64898/2026.08.20.745930>.
+
 -  **Kubota, A.**\*, Shinohara, Y., Goto, A., & Tajima, A.\* (2026). Multi-omics analysis reveals chromatin and transcriptomic remodeling in hippocampal CA1 following adolescent social isolation. *bioRxiv*. <https://doi.org/10.64898/2026.06.01.729282>.
 
 -  **Kubota, A.**\*, Kobayashi, H.\*, & Tajima, A. (2026). PANDA: Read-Level Phased Analysis of DNA Amplicons for Methylation Studies. *bioRxiv*. <https://doi.org/10.64898/2026.04.01.715790>.
