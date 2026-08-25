@@ -16,8 +16,7 @@ title: "プロフィール"
 
 [お名前・フルネームとご所属先]{.underline}に関する情報を併記していただけるとスムーズなやり取りが可能です。
 
-kubo_azu\[at\]stu.kanazawa-u.ac.jp （メイン）
-
+kubo_azu\[at\]stu.kanazawa-u.ac.jp （メイン）<br>
 kubotaexperiments\[at\]gmail.com （サブ）
 
 Researchmap: <https://researchmap.jp/kubo_azu>
