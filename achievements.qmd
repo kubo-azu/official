@@ -8,7 +8,7 @@ title: "これまでの成果"
 
 -  **Kubota, A.**\*, Shinohara, Y., Goto, A., & Tajima, A.\* (2026). Multi-omics analysis reveals chromatin and transcriptomic remodeling in hippocampal CA1 following adolescent social isolation. *bioRxiv*. <https://doi.org/10.64898/2026.06.01.729282>.
 
--  **Kubota, A.**\*, Kobayashi, H.\*, & Tajima, A. (2026). PANDA: Read-Level Phased Analysis of DNA Amplicons for Methylation Studies. *bioRxiv*. <https://doi.org/10.64898/2026.04.01.715790>.
+-  **Kubota, A.**\*, Kobayashi, H.\*, & Tajima, A. (2026). PANDA: Phased Analysis of DNA Amplicons for Read-Level Methylation Profiling and Heterogeneity Assessment. *bioRxiv*. <https://doi.org/10.64898/2026.04.01.715790>.
 
 -   **Kubota, A.**, Zang, L., Shinkai, T., Nakai, M., Tajima, A., & Shimada, Y\*. (2026). Systems-level Investigation of the Anxiolytic Gut-Brain Interactions induced by Paraprobiotic *Lactobacillus brevis* SBC8803 in Zebrafish. *Frontiers in Microbiology*, 17:1804536. <https://doi.org/10.3389/fmicb.2026.1804536>.
 
