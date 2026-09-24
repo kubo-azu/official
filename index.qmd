@@ -8,6 +8,7 @@ title: "Azusa KUBOTA's Official Website"
 
 Researchmap → <https://researchmap.jp/kubo_azu> <br> ORCID → <https://orcid.org/0009-0007-8948-4564> <br>
 
+
 ## 最新のお知らせ
 
 ```{r results='asis'}
