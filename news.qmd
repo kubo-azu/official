@@ -2,6 +2,8 @@
 title: "お知らせ一覧"
 ---
 
+-   **2026-10-23**: [[第10回 転移シグナル若手研究会＠東京慈恵会医科大学]{.underline}](https://www.metastasis-signaling.com/10thmeeting) (11/7〜8) に参加します。1日目 (11/7) に口頭発表のほかパネリストとして登壇予定です。
+
 -   **2026-10-21**: 筆頭著者・責任著者として執筆した論文 (Multi-omics profiling of gene expression and chromatin accessibility in mouse hippocampal CA1 following adolescent social isolation) がScientific Reports誌にアクセプトされました！山梨大学医学部解剖学システム生物学教室・篠原良章先生，香港科技大学・後藤明弘先生らとの共同研究成果です。
 
 -   **2026-08-25**: 筆頭著者・責任著者として執筆した論文 (プレプリント) が[bioRxivにて公開](https://doi.org/10.64898/2026.08.20.745930)されました。
