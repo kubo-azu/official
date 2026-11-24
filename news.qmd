@@ -4,7 +4,7 @@ title: "お知らせ一覧"
 
 -   **2026-11-24**: [[BMB2026＠横浜]{.underline}](https://www.aeplan.co.jp/bmb2026/) (12/1〜4) に参加します。2日目 (12/2) にサイエンスピッチとポスター発表を行います。[2SP-26-02 (14:03–14:06), 2P-0683 (15:00–16:00)]
 
--   **2026-11-18**: 筆頭著者・責任著者として執筆した論文 (PANDA: Phased Analysis of DNA Amplicons for Read-Level Methylation Profiling and Heterogeneity Assessment) がFrontiers in Bioinformatics誌にアクセプトされました！獨協医科大学ゲノム医科学講座・小林久人先生との共同研究成果です。
+-   **2026-11-18**: 筆頭著者・責任著者として執筆した論文 (PANDA: phased analysis of DNA amplicons for read-level methylation profiling and heterogeneity assessment) がFrontiers in Bioinformatics誌にアクセプトされました！獨協医科大学ゲノム医科学講座・小林久人先生との共同研究成果です。
 
 -   **2026-10-23**: [[第10回 転移シグナル若手研究会＠東京慈恵会医科大学]{.underline}](https://www.metastasis-signaling.com/10thmeeting) (11/7〜8) に参加します。1日目 (11/7) に口頭発表のほかパネリストとして登壇予定です。
 
@@ -18,11 +18,11 @@ title: "お知らせ一覧"
 
 -   **2026-06-03**: 筆頭著者・責任著者として執筆した論文 (プレプリント) が[bioRxivにて公開](https://doi.org/10.64898/2026.06.01.729282)されました。山梨大学医学部解剖学システム生物学教室・篠原良章先生，香港科技大学・後藤明弘先生らとの共同研究成果です。
 
--   **2026-05-21**: 先日Frontiers in Microbiology誌にアクセプトされた論文 ([Systems-level Investigation of the Anxiolytic Gut–Brain Interactions induced by Paraprobiotic Lactobacillus brevis SBC8803 in Zebrafish](https://doi.org/10.3389/fmicb.2026.1804536)) が出版されました。
+-   **2026-05-21**: 先日Frontiers in Microbiology誌にアクセプトされた論文 ([Systems-level investigation of the anxiolytic gut–brain interactions induced by paraprobiotic Lactobacillus brevis SBC8803 in zebrafish](https://doi.org/10.3389/fmicb.2026.1804536)) が出版されました。
 
 -   **2026-04-20**: 第19回 [日本エピジェネティクス研究会年会＠千葉]{.underline} (6/25〜26) に参加します。1日目 (6/25) にポスター発表を行います。[P-97, 16:45-18:00]
 
--   **2026-04-18**: 筆頭著者として執筆した論文 (Systems-level Investigation of the Anxiolytic Gut–Brain Interactions induced by Paraprobiotic Lactobacillus brevis SBC8803 in Zebrafish) がFrontiers in Microbiology誌にアクセプトされました！三重大学医学系研究科，ゼブラフィッシュリサーチセンター・島田康人先生らとの共同研究成果です。
+-   **2026-04-18**: 筆頭著者として執筆した論文 (Systems-level investigation of the anxiolytic gut–brain interactions induced by paraprobiotic Lactobacillus brevis SBC8803 in zebrafish) がFrontiers in Microbiology誌にアクセプトされました！三重大学医学系研究科，ゼブラフィッシュリサーチセンター・島田康人先生らとの共同研究成果です。
 
 -   **2025-04-03**: 筆頭著者・責任著者として執筆した論文 (プレプリント) が[bioRxivにて公開](https://doi.org/10.64898/2026.04.01.715790)されました。獨協医科大学ゲノム医科学講座・小林久人先生との共同研究成果です。
 
