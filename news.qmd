@@ -2,6 +2,8 @@
 title: "お知らせ一覧"
 ---
 
+-   **2026-11-24**: [[BMB2026＠横浜]{.underline}](https://www.aeplan.co.jp/bmb2026/) (12/1〜4) に参加します。2日目 (12/2) にサイエンスピッチとポスター発表を行います。[2SP-26-02 (14:03–14:06), 2P-0683 (15:00–16:00)]
+
 -   **2026-11-18**: 筆頭著者・責任著者として執筆した論文 (PANDA: Phased Analysis of DNA Amplicons for Read-Level Methylation Profiling and Heterogeneity Assessment) がFrontiers in Bioinformatics誌にアクセプトされました！獨協医科大学ゲノム医科学講座・小林久人先生との共同研究成果です。
 
 -   **2026-10-23**: [[第10回 転移シグナル若手研究会＠東京慈恵会医科大学]{.underline}](https://www.metastasis-signaling.com/10thmeeting) (11/7〜8) に参加します。1日目 (11/7) に口頭発表のほかパネリストとして登壇予定です。
