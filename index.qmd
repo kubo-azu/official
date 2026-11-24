@@ -6,7 +6,7 @@ title: "Azusa KUBOTA's Official Website"
 
 リアルタイムPCRデータ解析Webツール：Click-qPCR → <https://kubo-azu.shinyapps.io/Click-qPCR/> <br> Click-qPCR用データ作成支援Webツール：Click-Prep → <https://kubo-azu.shinyapps.io/Click-Prep/> <br> DNAメチル化アンプリコンデータ解析プラットフォーム：PANDA → <https://github.com/kubo-azu/PANDA> <br> お知らせ用 X (Twitter) → [\@terminal_ak](https://x.com/terminal_ak?s=21&t=ZJ_6sOLFnCmChDUdSNUEaQ)
 
-Researchmap → <https://researchmap.jp/kubo_azu> <br> ORCID → <https://orcid.org/0009-0007-8948-4564> <br>
+Researchmap → <https://researchmap.jp/kubo_azu> <br> Google Scholar → <https://scholar.google.com/citations?user=22-GKegAAAAJ> <br> ORCID → <https://orcid.org/0009-0007-8948-4564> <br>
 
 
 ## 最新のお知らせ
